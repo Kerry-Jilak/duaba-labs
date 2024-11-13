@@ -75,9 +75,9 @@ const Footer = ({ t }: { t: TFunction }) => {
             <Col lg={10} md={10} sm={12} xs={12}>
               <Empty />
               <Language>{t("Address")}</Language>
-              <Para>Rancho Santa Margarita</Para>
+              <Para>Accra, Ghana</Para>
               <Para>2131 Elk Street</Para>
-              <Para>California</Para>
+              <Para>Ghana</Para>
             </Col>
             <Col lg={8} md={8} sm={12} xs={12}>
               <Title>{t("Company")}</Title>
@@ -137,11 +137,11 @@ const Footer = ({ t }: { t: TFunction }) => {
                 src="twitter.svg"
               />
               <SocialLink
-                href="https://www.linkedin.com/in/lasha-kakabadze/"
+                href="https://www.linkedin.com/company/duabalabs"
                 src="linkedin.svg"
               />
               <SocialLink
-                href="https://medium.com/@lashakakabadze/"
+                href="https://web.facebook.com/profile.php?id=61564814566962&is_tour_dismissed"
                 src="medium.svg"
               />
               <a

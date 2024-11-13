@@ -1,0 +1,10 @@
+# pack-refs with: peeled fully-peeled sorted 
+a2eda653910506cb1035bfde5fb1cfe8358ae880 refs/remotes/origin/dependabot/npm_and_yarn/ejs-3.1.10
+979ecd5208a7d91ba3efdf6dff3bd54d47bf2ca2 refs/remotes/origin/master
+b36d91f61c538c0446eb157a954b0452f881b860 refs/tags/1.3.1
+a7efe209b7f743b13f21bd4c4ba74b20439329b5 refs/tags/1.3.3
+766a97e1956c675d153a627b6b43098f28a47199 refs/tags/1.3.4
+a477363aa136afb5619b867299f59d793c5eb0e4 refs/tags/1.3.6
+d9cc9b30b23dd9da00e692a47098b70ca2d50754 refs/tags/1.3.7
+80a56cd077b50bd7b19d5b4d64404093236129a5 refs/tags/1.3.8
+e1ea9b765a17ade4a1f8b6a57bce25d49a72b2df refs/tags/1.3.9

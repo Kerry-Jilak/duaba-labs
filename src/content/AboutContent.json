@@ -1,15 +1,15 @@
 {
-  "title": "Light, fast & responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "title": "Innovate. Elevate. Succeed.",
+  "text": "At DuabaLabs, we are dedicated to transforming your business through innovative technology solutions. Our team of experts specializes in crafting custom app solutions that drive efficiency and growth. With our strategic consultation services and 24/7 customer support, we ensure your business stays ahead in a competitive market. Partner with us to unlock new opportunities and elevate your success.",
   "section": [
     {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
+      "title": "Tailored Solutions",
+      "content": "We customize every app to meet your unique business needs, ensuring maximum efficiency and impact.",
       "icon": "notes.svg"
     },
     {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
+      "title": "Expert Support",
+      "content": "Our dedicated team provides round-the-clock assistance,ensuring seamless integration and ongoing success.",
       "icon": "notes.svg"
     }
   ]
